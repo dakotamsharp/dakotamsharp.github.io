@@ -35,7 +35,7 @@ const gameContainer = document.querySelector('.game-container');
 
 // Now that all DOM elements are declared, we can parse the JSON and use the buttons.
 const cluesJSONString = `[
-[
+
     [
         "Terrible Movie",
         "Great Movie"
@@ -95,7 +95,7 @@ const cluesJSONString = `[
     [
         "Annoying Sound",
         "Satisfying Sound"
-    ],
+
 ]
 ]`;
 
